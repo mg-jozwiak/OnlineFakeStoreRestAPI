@@ -1,0 +1,11 @@
+allure-pytest
+faker
+jsonpath-ng
+jsonschema
+pytest
+pytest-html
+pytest-xdist
+requests
+requests-oauthlib
+xmltodict
+
