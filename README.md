@@ -18,6 +18,8 @@ to be defined at the later stage of the course progression
 2. Install deps:
    pip install -r requirements.txt
 
+3. Add a .env file in the project parent directory. Add PYTHONPATH=[absolute_project_path] to the file, where [absolute_project_path] is an absolute project path on your machine (e.g. /home/mj_user/code/OnlineFakeStoreRestAPI or C://code/OnlineFakeStoreRestAPI).
+
 ## Testing
 
 to be provided
